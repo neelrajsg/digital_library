@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-DigitalLibraryApplication<digital_library>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.library.digital_library.DigitalLibraryApplication",
+      "projectName": "digital_library",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
